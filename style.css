@@ -1,0 +1,125 @@
+.one{
+    width: 200px;
+}
+.tow{
+    border: 0px;
+}
+.three{
+    background-color: rgb(47, 146, 47);
+    border: none;
+    padding: 5px 15px;
+    border-radius: 20px;
+    color: white;
+}
+.background1{
+    background-color: rgb(221, 253, 221);
+    height: 600px;
+}
+.four{
+    font-size: 50px;
+}
+.four1{
+    color: rgb(47, 146, 47);
+}
+.five{
+    background-color: rgb(47, 146, 47);
+    border: none;
+    padding: 7px 17px;
+    border-radius: 20px;
+}
+.six{
+    width: 80px;
+   margin-left: 18px;
+}
+.seven{
+    background-color: rgb(221, 253, 221);
+    width: 21%;
+    height: 230px;
+    padding: 23px 50px;
+    border-radius: 10px;
+    margin-left: 40px;
+    
+}
+.eight1{
+    width: 100px;
+    margin-left: 18px;
+}
+.eight{
+    background-color: rgb(248, 248, 248);
+    width: 21%;
+    height: 230px;
+    padding: 23px 50px;
+    border-radius: 10px;
+    margin-left: 40px;
+    box-shadow: 5px 5px 20px;
+}
+.nine1{
+    width: 100px;
+    margin-left: 18px;
+}
+.nine{
+    background-color: rgb(221, 253, 221);
+    width: 21%;
+    height: 230px;
+    padding: 23px 50px;
+    border-radius: 10px;
+    margin-left: 40px;
+}
+.ten1{
+    width: 100px;
+    margin-left: 18px;
+}
+.ten{
+    background-color: rgb(221, 253, 221);
+    width: 21%;
+    height: 230px;
+    padding: 23px 50px;
+    border-radius: 10px;
+    margin-left: 40px;
+}
+.calendar{
+    width: 15%;
+}
+.modern{
+    width: 95%;
+   padding-left: 18px;
+   padding-top: 15px;
+}
+.card-finish{
+    background-color: rgb(47, 146, 47);
+    padding: 5px 15px;
+    border: none;
+    border-radius: 20px;
+}
+.box-shadow{
+    border: none;
+    box-shadow: 5px 5px 20px rgb(128, 127, 127);
+    border-radius: 20px;
+    margin-bottom: 60px;
+}
+.images-short{
+    width: 170px;
+}
+.man-comment{
+    margin-top: 90px;
+    margin-left: 90px;
+}
+.image-floting{
+    margin-left: 15%;
+    margin-top: 40px;
+}
+.background-color{
+    background-color: rgb(7, 7, 22);
+    height: 400px;
+}
+.last-margin{
+    margin-left: 30px;
+}
+.last{
+    margin-top: 80px;
+}
+.background-color-finish{
+    background-color: black;
+    height: 100px;
+    margin-bottom: 100px;
+}
